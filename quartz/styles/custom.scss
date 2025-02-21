@@ -1,3 +1,13 @@
 @use "./base.scss";
 
-// put your custom CSS here!
+body {
+    background-image: url("./../static/wisteria-tree-light.png");
+    background-size: cover;
+    background-attachment:fixed;
+}
+
+:root[saved-theme="dark"] {
+    body {
+        background-image: url("./../static/wisteria-tree-dark.png");
+    }
+}
