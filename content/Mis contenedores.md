@@ -9,7 +9,7 @@ tags:
   - bot
   - bluesky
 ---
-Te invito a explorar conmigo los contenedores que conforman por ahora el ecosistema de *azeria.dev*. Esta familia de contenedores no solo va creciendo con el tiempo, sino que también reciben soporte continuado para garantizar su correcto funcionamiento. Los contenedores están alojados en el servidor de [[mi laboratorio personal]].
+Te invito a explorar conmigo los contenedores que conforman por ahora el ecosistema de *azeria.dev*. Esta familia de contenedores no solo va creciendo con el tiempo, sino que también reciben soporte continuado para garantizar su correcto funcionamiento. Los contenedores están alojados en el servidor de [mi laboratorio personal](Mi%20laboratorio%20personal).
 
 > [!example] aemet-avisa
 > Bot para la red social [Bluesky](https://bsky.app/). Se ejecuta bajo la cuenta [@aemet-avisa.bot.azeria.dev](https://bsky.app/profile/aemet-avisa.bot.azeria.dev). Publica regularmente los [avisos meteorológicos emitidos por la AEMET](https://www.aemet.es/es/eltiempo/prediccion/avisos).

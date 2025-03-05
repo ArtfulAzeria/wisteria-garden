@@ -31,6 +31,8 @@ Esta parcela de mi jardín digital se la dedico a proyectos que quiero llevar m�
 > 
 > Abriré un *bug report* en el repositorio de Quartz y si puedo ponerme con ello crearé una pull request con los arreglos.
 
+> [!tip]- Wikilinks
+> La sintaxis de wikilinks para enlazar documentos internos falla en mi servidor, echaré un ojo para comprobar si es por cuestiones del sistema operativo o por configuraciones de Quartz.
 ## WORK
 
 > [!tip]- Convertir esta entrada en un Kanban
