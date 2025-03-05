@@ -2,7 +2,7 @@
 title: Wisteria Garden
 ---
 
-Te doy la bienvenida a *Wisteria Garden*. Este es mi propio [[jardín digital]]. Todo lo que leas aquí ha sido escrito en [Markdown](https://es.wikipedia.org/wiki/Markdown) con [Obsidian](https://obsidian.md/), y luego procesado por [Quartz](https://quartz.jzhao.xyz/) para entregarlo como una página web.
+Te doy la bienvenida a *Wisteria Garden*. Este es mi propio [jardín digital](Jardín%20digital). Todo lo que leas aquí ha sido escrito en [Markdown](https://es.wikipedia.org/wiki/Markdown) con [Obsidian](https://obsidian.md/), y luego procesado por [Quartz](https://quartz.jzhao.xyz/) para entregarlo como una página web.
 
 También puedes acceder al contenido directamente desde el [repositorio](https://github.com/ArtfulAzeria/wisteria-garden), que como la mayoría de mis proyectos, tengo el orgullo de poder decir que es de código abierto. Si tú también quieres cultivar tu propio jardín digital, te animo a que hagas un fork del [repositorio de Quartz](https://github.com/jackyzha0/quartz).
 
